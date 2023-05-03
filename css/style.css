@@ -10,10 +10,16 @@
 
 body {
     text-align: center;
-  
+    
+    background-image: url('https://cutewallpaper.org/21/pokemon-anime-forest-background/Pokemon-Lets-Go-Pikachu-and-Eevee-Pre-Release-Review-HYPEBEAST.png');
+    background-position: left;
+    background-size: cover;
     margin: 0;
     overflow: hidden;
-    background-repeat: no-repeat;
+
+  
+    
+   
     min-height: 100vh;
 }
 
